@@ -1,0 +1,5 @@
+<resources>
+    <color name="drive_stamp_background">#101927</color>
+    <color name="drive_star_ink">#FFDB91</color>
+    <item type="mipmap" name="drive_launcher">@mipmap/drive_route</item>
+</resources>

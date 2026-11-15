@@ -1,0 +1,5 @@
+<resources>
+    <style name="StarRoadTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/drive_stamp_background</item>
+    </style>
+</resources>
